@@ -1,0 +1,7 @@
+D:\DEV2312LM-netcore24\lesson02\lesson02\lab3\NetcoreMVClab03\NetcoreMVClab03\obj\Debug\net8.0\NetcoreMVClab03.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV2312LM-netcore24\lesson02\lesson02\lab3\NetcoreMVClab03\NetcoreMVClab03\obj\Debug\net8.0\NetcoreMVClab03.AssemblyInfoInputs.cache
+D:\DEV2312LM-netcore24\lesson02\lesson02\lab3\NetcoreMVClab03\NetcoreMVClab03\obj\Debug\net8.0\NetcoreMVClab03.AssemblyInfo.cs
+D:\DEV2312LM-netcore24\lesson02\lesson02\lab3\NetcoreMVClab03\NetcoreMVClab03\obj\Debug\net8.0\NetcoreMVClab03.csproj.CoreCompileInputs.cache
+D:\DEV2312LM-netcore24\lesson02\lesson02\lab3\NetcoreMVClab03\NetcoreMVClab03\obj\Debug\net8.0\NetcoreMVClab03.MvcApplicationPartsAssemblyInfo.cache
+D:\DEV2312LM-netcore24\lesson02\lesson02\lab3\NetcoreMVClab03\NetcoreMVClab03\obj\Debug\net8.0\NetcoreMVClab03.RazorAssemblyInfo.cache
+D:\DEV2312LM-netcore24\lesson02\lesson02\lab3\NetcoreMVClab03\NetcoreMVClab03\obj\Debug\net8.0\NetcoreMVClab03.RazorAssemblyInfo.cs
